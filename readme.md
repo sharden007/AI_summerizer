@@ -62,7 +62,7 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Installation**
-Clone the repo.
+
 Install the project dependencies using npm:
 
 ```bash
